@@ -9,7 +9,7 @@ Based in Kochi, India.
 
 ## Tech
 
-`Power BI (DAX, Power Query)` `SQL Server` `Python (Pandas, Requests)` `Excel (Power Query, pivots)` `Tableau (working knowledge)` `ETL` `Dimensional modelling`
+`Power BI (DAX, Power Query)` `SQL Server` `Python (Pandas, Requests)` `Excel (Power Query, pivots)` `Tableau` `ETL` `Dimensional modelling`
 
 ## Featured projects
 
