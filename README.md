@@ -26,4 +26,4 @@ Based in Kochi, India.
 - Portfolio: [romyavril96.github.io/Romy_Portfolio](https://romyavril96.github.io/Romy_Portfolio/)
 - One-page profile: [files.instinct.com/fv88h02bcf8a-romy-augustine-data-analyst](https://files.instinct.com/fv88h02bcf8a-romy-augustine-data-analyst)
 - LinkedIn: [linkedin.com/in/romyavril](https://www.linkedin.com/in/romyavril/)
-- Email: avrilaugustine1996@gmail.com
+- Email: insightswithromy@gmail.com
