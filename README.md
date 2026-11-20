@@ -3,7 +3,7 @@
 **Data Analyst | Power BI · SQL · Python · Excel**
 Based in Kochi, India.
 
-- I turn messy data into checked, decision-ready dashboards and datasets. I verify every figure before it reaches a stakeholder.
+- I turn raw data into checked, decision-ready dashboards and datasets. I verify every figure before it reaches a stakeholder.
 - 9 years of professional experience (since 2017) across finance operations and, now, analytics, including audit projects for a Singapore headquarters.
 - Building: API-based ETL pipelines, SQL Server data warehouses and executive Power BI dashboards.
 
